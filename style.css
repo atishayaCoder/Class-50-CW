@@ -1,0 +1,35 @@
+h1 {
+    color: brown;
+}
+* {
+    border: solid;
+}
+
+.Socials 
+{
+display:flex;
+justify-content:space-evenly;
+}
+
+.Games
+{
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+}
+
+.Link
+{
+display: flex;
+justify-content: space-evenly;
+}
+
+.Heading
+{
+display: flex;
+justify-content: center;
+color: coral;
+font-weight: bold;
+font-family: cursive;
+}
+
